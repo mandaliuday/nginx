@@ -1,1 +1,1 @@
-10.191.2.247 ansible_connection=ssh ansible_ssh_user=uday ansible_ssh_pass=Mandali@666
+127.0.0.1 ansible_connection=ssh ansible_ssh_user=uday ansible_ssh_pass=Mandali@666
